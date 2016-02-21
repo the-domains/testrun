@@ -1,28 +1,18 @@
-name: testrun
-favicon: null
-layout_spectrum: 0.6681679734028876
-typography_spectrum: 0.5713915738742799
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#90C0C0'
+    - '#387880'
+    - '#58A0A8'
+    - '#60B0C8'
+    - '#C0E0E8'
   brandStrength: 0.024286326952278614
   lightness: 0.7680766456760466
-  saturation: 0.8842077639419585
   rhythmicContrast: 0.21993092191405594
+  saturation: 0.8842077639419585
+cta: {}
+layout_spectrum: 0.6681679734028876
+name: testrun
+opengraph: {}
 purpose: []
+typography_spectrum: 0.5713915738742799
